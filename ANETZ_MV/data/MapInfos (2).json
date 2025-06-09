@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":9,"parentId":0,"scrollX":728,"scrollY":398.22222222222223},
+{"id":2,"expanded":true,"name":"First_Map","order":2,"parentId":0,"scrollX":944.8888888888889,"scrollY":1269.3333333333333},
+{"id":3,"expanded":false,"name":"Second_Map","order":3,"parentId":2,"scrollX":720.8888888888889,"scrollY":801.7777777777778},
+null,
+{"id":5,"expanded":true,"name":"Tests","order":4,"parentId":3,"scrollX":728,"scrollY":398.22222222222223},
+{"id":6,"expanded":false,"name":"Battle","order":6,"parentId":5,"scrollX":728,"scrollY":398.22222222222223},
+{"id":7,"expanded":false,"name":"CharacterCustomize","order":1,"parentId":0,"scrollX":728,"scrollY":398.22222222222223},
+{"id":8,"expanded":false,"name":"Events_via_NetComments","order":5,"parentId":5,"scrollX":728,"scrollY":398.22222222222223},
+null,
+null,
+{"id":11,"expanded":false,"name":"SharedEvents","order":7,"parentId":5,"scrollX":728,"scrollY":398.22222222222223},
+{"id":12,"expanded":false,"name":"nAPI (script calls)","order":8,"parentId":5,"scrollX":720.8888888888889,"scrollY":583.1111111111111}
+]
